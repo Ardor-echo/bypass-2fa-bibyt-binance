@@ -199,12 +199,10 @@
 
 ✅ **Full Source Code**  
 ✅ **Unlimited Users & Accounts**  
-✅ **All Exchange Integrations**  
+✅ **BiByt & Binance Exchange Integrations**  
 ✅ **Telegram Bot Included**  
-✅ **Web Dashboard**  
-✅ **Email Support**  
-✅ **Future Updates**  
-✅ **Commercial Use Rights**  
+✅ **Web Dashboard**   
+✅ **Future Updates**    
 
 </div>
 
@@ -235,7 +233,7 @@
 
 <div align="center">
 
-**© 2024 Crypto Team Manager. All rights reserved.**
+**© 2025 Crypto Team Manager. All rights reserved.**
 
 *Built with ❤️ for the crypto community*
 
