@@ -1,4 +1,4 @@
-# 🚀 Crypto Team Manager - Professional Multi-Exchange Management System for bypass 2fa, mail code, phone code on BiByt & Binance
+# 🚀 Crypto Team Manager - Professional Multi-Exchange Management System for bypass 2fa, mail code, phone code on ByBit & Binance
 
 <div align="center">
 
@@ -199,7 +199,7 @@
 
 ✅ **Full Source Code**  
 ✅ **Unlimited Users & Accounts**  
-✅ **BiByt & Binance Exchange Integrations**  
+✅ **ByBit & Binance Exchange Integrations**  
 ✅ **Telegram Bot Included**  
 ✅ **Web Dashboard**   
 ✅ **Future Updates**    
