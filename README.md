@@ -1,4 +1,4 @@
-# 🚀 Crypto Team Manager - Professional Multi-Exchange Management System for bypass 2fa
+# 🚀 Crypto Team Manager - Professional Multi-Exchange Management System for bypass 2fa, mail code, phone code on BiByt & Binance
 
 <div align="center">
 
@@ -18,8 +18,8 @@
 ## 🌟 Key Features
 
 ### 🔐 **Multi-Exchange Support**
-- **Bybit** - Full API integration with spot, margin, and funding wallet support
-- **Binance** - Complete spot and funding wallet management
+- **Bybit** - Full API funding wallet support | Withdraw cypto without 2fa, mail code, phone code
+- **Binance** - Full API funding wallet support | Withdraw cypto without 2fa, mail code, phone code
 - Easy addition of new exchanges through modular architecture
 
 ### 👥 **Team Management System**
